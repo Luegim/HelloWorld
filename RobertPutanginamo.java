@@ -9,7 +9,7 @@ package robertputanginamo;
  *
  * @author natividadma
  */
-public class RobertPutanginamo {
+public class RobertPutanginMO {
 
     /**
      * @param args the command line arguments
@@ -17,7 +17,7 @@ public class RobertPutanginamo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello My Name is Robert");
-                
+        System.out.println("I've been here");        
     }
     
 }
